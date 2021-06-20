@@ -1,3 +1,3 @@
 # BMSCamera
 
-A description of this package.
+An lightweight lib for code recognition screens creating.
